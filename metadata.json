@@ -1,0 +1,7 @@
+{
+  "name": "Win Vault",
+  "description": "A high-performance achievement logging platform for Strategy & Plans teams, featuring molten glass aesthetics and AI-powered monthly wrapped summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
